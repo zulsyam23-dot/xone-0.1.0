@@ -1,4 +1,5 @@
 ![image alt](https://github.com/zulsyam23-dot/xone-0.1.0/blob/196a64c08f5fdc373af4e7839bca5372852f16c6/Screenshot%202026-02-22%20132943.png)
+![image alt](https://github.com/zulsyam23-dot/xone-0.1.0/blob/5f8a47d3f7cae370cfc69d04d4a82618a6b10c4a/Screenshot%202026-02-22%20134829.png)
  
  # Xone Workspace Guide
 
