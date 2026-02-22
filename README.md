@@ -1,12 +1,15 @@
+## editor
 ![image alt](https://github.com/zulsyam23-dot/xone-0.1.0/blob/196a64c08f5fdc373af4e7839bca5372852f16c6/Screenshot%202026-02-22%20132943.png)
+## terminal
 ![image alt](https://github.com/zulsyam23-dot/xone-0.1.0/blob/5f8a47d3f7cae370cfc69d04d4a82618a6b10c4a/Screenshot%202026-02-22%20134829.png)
- 
+## pengaturan
+![image alt](https://github.com/zulsyam23-dot/xone-0.1.0/blob/b82016443a8aaa62e008a1b4459ed53e154f2c49/Screenshot%202026-02-22%20134849.png)
  # Xone Workspace Guide
 
 ## Ringkasan
 Xone adalah editor TUI dengan panel Explorer, Editor, Terminal, Settings, dan AI Chat dalam satu workspace.
 
-## 📦 Persyaratan
+## Persyaratan
 
 Sebelum menjalankan project ini, pastikan sudah menginstall:
 
