@@ -3,6 +3,59 @@
 ## Ringkasan
 Xone adalah editor TUI dengan panel Explorer, Editor, Terminal, Settings, dan AI Chat dalam satu workspace.
 
+## 📦 Persyaratan
+
+Sebelum menjalankan project ini, pastikan sudah menginstall:
+
+- Rust
+- Git
+- Windows Terminal (disarankan)
+
+---
+
+## Install Rust
+
+1. Download Rust dari: https://rustup.rs
+2. Jalankan installer `.exe`
+3. Pilih opsi default
+4. Restart komputer setelah selesai
+
+## Install Git
+
+Download Git untuk Windows:
+https://git-scm.com/download/win
+
+
+
+
+## Clone Repository
+
+Buka PowerShell atau Windows Terminal:
+
+- git clone https://github.com/zulsyam23-dot/xone-0.1.0.git
+- cd xone-0.1.0
+
+
+
+
+## Build Project
+
+- cargo build --release
+- cargo run
+
+
+
+
+## ⚠ Troubleshooting
+
+### Cargo tidak dikenali
+Pastikan Rust sudah terinstall dan komputer sudah direstart.
+
+### Error saat build
+Pastikan koneksi internet aktif dan Rust terupdate:
+
+
+
 ## Fitur Utama
 - Editor teks dengan syntax highlight, suggestion, bookmark, undo/redo.
 - Explorer file/folder terintegrasi dengan workspace.
