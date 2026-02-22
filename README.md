@@ -75,7 +75,8 @@ Pastikan koneksi internet aktif dan Rust terupdate:
 1. Konfigurasi AI di `.xone/ai/ai.conf`.
 2. Buka Settings (`F2`) untuk switch profile AI cepat (`1/2/3`).
 3. Buka AI Chat (`F6`) dan kirim prompt.
-4. Gunakan `Ctrl+Enter` (insert) atau `Alt+Enter` (replace selection) dari jawaban AI.
+![image alt](https://github.com/zulsyam23-dot/xone-0.1.0/blob/b470cf40ebcf76718e9c44ec95e9b012f2b8b7a6/Screenshot%202026-02-22%20134210.png)
+5. Gunakan `Ctrl+Enter` (insert) atau `Alt+Enter` (replace selection) dari jawaban AI.
 
 ## Dokumentasi Lanjutan
 - Konfigurasi workspace: `.xone/README.md`
