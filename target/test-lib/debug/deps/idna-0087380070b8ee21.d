@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\xone\target/test-lib\debug\deps\idna-0087380070b8ee21.d: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\deprecated.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs
+
+C:\Users\PC\Documents\xone\target/test-lib\debug\deps\libidna-0087380070b8ee21.rlib: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\deprecated.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs
+
+C:\Users\PC\Documents\xone\target/test-lib\debug\deps\libidna-0087380070b8ee21.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\deprecated.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\deprecated.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs:

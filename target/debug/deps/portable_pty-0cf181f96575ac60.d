@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\xone\target\debug\deps\portable_pty-0cf181f96575ac60.d: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\cmdbuilder.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\mod.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\conpty.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\procthreadattr.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\psuedocon.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\serial.rs
+
+C:\Users\PC\Documents\xone\target\debug\deps\libportable_pty-0cf181f96575ac60.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\cmdbuilder.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\mod.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\conpty.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\procthreadattr.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\psuedocon.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\serial.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\cmdbuilder.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\mod.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\conpty.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\procthreadattr.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\win\psuedocon.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\portable-pty-0.8.1\src\serial.rs:

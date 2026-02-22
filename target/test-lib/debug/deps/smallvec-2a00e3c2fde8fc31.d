@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\xone\target/test-lib\debug\deps\smallvec-2a00e3c2fde8fc31.d: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\smallvec-1.15.1\src\lib.rs
+
+C:\Users\PC\Documents\xone\target/test-lib\debug\deps\libsmallvec-2a00e3c2fde8fc31.rlib: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\smallvec-1.15.1\src\lib.rs
+
+C:\Users\PC\Documents\xone\target/test-lib\debug\deps\libsmallvec-2a00e3c2fde8fc31.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\smallvec-1.15.1\src\lib.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\smallvec-1.15.1\src\lib.rs:

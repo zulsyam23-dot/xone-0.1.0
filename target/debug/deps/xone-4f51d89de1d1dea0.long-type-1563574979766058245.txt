@@ -1,0 +1,1 @@
+(AppearancePreset, AccentPreset, TabThemePreset, SyntaxThemePreset, UiDensity, bool, bool, bool, bool)

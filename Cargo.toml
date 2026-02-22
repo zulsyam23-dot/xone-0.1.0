@@ -1,0 +1,19 @@
+[package]
+name = "xone"
+version = "0.1.0"
+edition = "2021"
+authors = ["user"]
+description = "Terminal-based editor and workspace manager"
+license = "MIT"
+
+[dependencies]
+crossterm = "0.27"
+ratatui = { version = "0.26", default-features = false, features = ["crossterm"] }
+unicode-width = "0.1"
+arboard = "3.4"
+portable-pty = "0.8"
+vt100 = "0.16"
+windows-sys = { version = "0.59", features = ["Win32_Foundation", "Win32_System_Console"] }
+ureq = { version = "2.10", features = ["json"] }
+serde_json = "1.0"
+

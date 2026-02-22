@@ -1,0 +1,9 @@
+﻿{
+  "plugin_id": "hello-hook",
+  "name": "Hello Hook Plugin",
+  "version": "0.1.0",
+  "api": "xone-hooks-v1",
+  "author": "xone-sample",
+  "description": "Sample plugin for upload/install testing using hook actions.",
+  "entry": "hooks.conf"
+}
